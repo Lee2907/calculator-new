@@ -1,4 +1,4 @@
-function getHistory() {
+function getOperations() {
   return document.getElementById("history-value").innerText;
 }
 function printHistory(num) {

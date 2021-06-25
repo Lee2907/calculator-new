@@ -24,7 +24,7 @@ body {
 #result {
   height: 120px;
 }
-#history {
+#operations {
   text-align: right;
   height: 20px;
   margin: 0 20px;
